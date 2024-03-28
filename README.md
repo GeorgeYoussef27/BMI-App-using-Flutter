@@ -1,4 +1,4 @@
-# BMi Calculator Flutter 💪
+# BMi Calculator Flutter
 
 
 
